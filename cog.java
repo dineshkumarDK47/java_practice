@@ -1,4 +1,5 @@
-// public class cog {
+// --------------------> insertion sort ----------------------> 
+//public class cog {
 //     static void ins(int[] arr, int n){
 //         for(int i=1;i<n;i++){
 //             int key = arr[i];

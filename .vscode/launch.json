@@ -1,0 +1,97 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "virtusa4",
+            "request": "launch",
+            "mainClass": "virtusa4",
+            "projectName": "JAVA_PRACT_9aec088d"
+        },
+        {
+            "type": "java",
+            "name": "virtusa3",
+            "request": "launch",
+            "mainClass": "virtusa3",
+            "projectName": "JAVA_PRACT_9aec088d"
+        },
+        {
+            "type": "java",
+            "name": "virtusa2",
+            "request": "launch",
+            "mainClass": "virtusa2",
+            "projectName": "JAVA_PRACT_9aec088d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "arr2",
+            "request": "launch",
+            "mainClass": "arr2",
+            "projectName": "JAVA_PRACT_9aec088d"
+        },
+        {
+            "type": "java",
+            "name": "arr4",
+            "request": "launch",
+            "mainClass": "arr4",
+            "projectName": "JAVA_PRACT_9aec088d"
+        },
+        {
+            "type": "java",
+            "name": "dk",
+            "request": "launch",
+            "mainClass": "dk",
+            "projectName": "JAVA_PRACT_9aec088d"
+        },
+        {
+            "type": "java",
+            "name": "intstr",
+            "request": "launch",
+            "mainClass": "intstr",
+            "projectName": "JAVA_PRACT_9aec088d"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "JAVA_PRACT_9aec088d"
+        },
+        {
+            "type": "java",
+            "name": "queue",
+            "request": "launch",
+            "mainClass": "queue",
+            "projectName": "JAVA_PRACT_9aec088d"
+        },
+        {
+            "type": "java",
+            "name": "str1",
+            "request": "launch",
+            "mainClass": "str1",
+            "projectName": "JAVA_PRACT_9aec088d"
+        },
+        {
+            "type": "java",
+            "name": "virtusa",
+            "request": "launch",
+            "mainClass": "virtusa",
+            "projectName": "JAVA_PRACT_9aec088d"
+        }
+    ]
+}

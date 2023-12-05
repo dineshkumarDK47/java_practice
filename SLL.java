@@ -1,3 +1,7 @@
+
+
+// single Linked List 
+
 import java.util.List;
 
 class LinkedNode{

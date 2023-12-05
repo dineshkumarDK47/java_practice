@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "virtusa8",
+            "request": "launch",
+            "mainClass": "virtusa8",
+            "projectName": "JAVA_PRACT_9aec088d"
+        },
+        {
+            "type": "java",
+            "name": "Pyramid",
+            "request": "launch",
+            "mainClass": "Pyramid",
+            "projectName": "JAVA_PRACT_9aec088d"
+        },
+        {
+            "type": "java",
+            "name": "virtusa7",
+            "request": "launch",
+            "mainClass": "virtusa7",
+            "projectName": "JAVA_PRACT_9aec088d"
+        },
+        {
+            "type": "java",
+            "name": "singleLinkedList",
+            "request": "launch",
+            "mainClass": "singleLinkedList",
+            "projectName": "JAVA_PRACT_9aec088d"
+        },
+        {
+            "type": "java",
+            "name": "doublyLinkedList",
+            "request": "launch",
+            "mainClass": "doublyLinkedList",
+            "projectName": "JAVA_PRACT_9aec088d"
+        },
+        {
+            "type": "java",
             "name": "virtusa4",
             "request": "launch",
             "mainClass": "virtusa4",

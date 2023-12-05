@@ -1,3 +1,4 @@
+// palindrome or not
 public class virtusa4 {
     public static int palin(String word){
         int length1 = word.length();
@@ -21,3 +22,4 @@ public class virtusa4 {
         }
     }
 }
+
